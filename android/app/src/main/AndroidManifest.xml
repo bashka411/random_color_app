@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="random_color_app.random_color_app">
+    package="com.example.random_color_app">
    <application
         android:label="random_color_app"
         android:name="${applicationName}"
